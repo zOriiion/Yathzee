@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Yams2/1.0.0": {
+        "dependencies": {
+          "BibliotequeYams": "1.0.0"
+        },
+        "runtime": {
+          "Yams2.dll": {}
+        }
+      },
+      "BibliotequeYams/1.0.0": {
+        "runtime": {
+          "BibliotequeYams.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Yams2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BibliotequeYams/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
